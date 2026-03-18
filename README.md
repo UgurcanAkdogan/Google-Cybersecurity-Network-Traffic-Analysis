@@ -1,4 +1,4 @@
-# Google-Cybersecurity-Network-Traffic-Analysis
+# Network-Traffic-Analysis
 A detailed cybersecurity incident report analyzing DNS and ICMP traffic patterns using tcpdump. Completed as part of the Google Cybersecurity Professional Certificate.
 Network Traffic Analysis & Incident Report (DNS/ICMP)
 📌 Project Overview
